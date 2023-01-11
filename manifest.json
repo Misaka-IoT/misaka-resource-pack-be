@@ -1,0 +1,17 @@
+{
+   "format_version": 1,
+   "header": {
+     "description": "Misaka Resource Pack",
+     "name": "Misaka Resource Pack",
+     "uuid": "24ebaf3a-c976-46c9-8577-6998a0528d36",
+     "version": [0, 0, 1]
+   },
+   "modules": [
+     {
+       "description": "Misaka Resource Pack",
+       "type": "resources",
+       "uuid": "16968d88-d134-4688-b120-6890133f112c",
+       "version": [0, 0, 1]
+     }
+   ]
+}
